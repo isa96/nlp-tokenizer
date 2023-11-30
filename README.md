@@ -1,0 +1,7 @@
+# NLP_Tokenizer_101
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this documentation, we will learn about the parameters in tokenizer NLP, **Tokneizer** is used for split a phrase, sentence, paragraph, or an entire text document into smaller unitus, such as individual words or terms ([What is Tokenization](https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/#:~:text=Tokenization%20is%20one%20of%20the,as%20individual%20words%20or%20terms.)) or **Tokenization** is the process of replacing sensitive data with unique identification symbols that retrain all the essential information about the data without comprimising its security ([what is tokenizer used for](https://www.techtarget.com/searchsecurity/definition/tokenization))
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tokenizer help in understanding the context or developing model for the NLP ([Tokenization for Natural Language Processing](https://towardsdatascience.com/tokenization-for-natural-language-processing-a179a891bad4)). This tokenizer is requirement in NLP tasks where each word needs to be captured and subjected to further analysis like classifying and counting them for a particular sentiment etc ([Python - Word Tokenization - Tutorialspoint](https://www.tutorialspoint.com/python_data_science/python_word_tokenization.htm)) 
+
+
